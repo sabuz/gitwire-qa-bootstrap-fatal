@@ -9,4 +9,4 @@ if ( ! defined( 'ABSPATH' ) ) {
 	exit;
 }
 
-// gitwire_qa_this_function_does_not_exist();
+gitwire_qa_this_function_does_not_exist();
